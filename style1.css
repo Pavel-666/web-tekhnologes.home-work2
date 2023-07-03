@@ -1,0 +1,33 @@
+html {
+    background-image: url(images/1651059222_8-gamerwall-pro-p-ognennii-petukh-krasivie-oboi-12.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.small img {
+    width: 300px;
+    margin-left: 50px;
+}
+
+img {
+    width: 600px;
+    margin-left: 30px;
+}
+
+.all{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+p{
+    color: ActiveBorder
+}
+
+a{
+    color: black
+}
